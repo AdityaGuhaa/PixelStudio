@@ -1,13 +1,1 @@
 CLAUDE.md
-
-ComfyUI/models/
-*.ckpt
-*.safetensors
-*.pt
-__pycache__/
-*.pyc
-.env
-venv/
-conda/
-.DS_Store
-Thumbs.db
