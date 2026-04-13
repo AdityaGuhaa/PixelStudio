@@ -1,6 +1,6 @@
-# 🎨 PixelStudio
+# PixelStudio
 
-## 🚀 Overview
+## Overview
 
 PixelStudio is a locally deployed AI-powered image generation system built using modern diffusion models. The project focuses on enabling high-quality image synthesis using GPU acceleration, while maintaining a clean, reproducible, and scalable development environment.
 
@@ -13,7 +13,7 @@ This project was built as a hands-on exploration into:
 
 ---
 
-## 🎯 Objective
+## Objective
 
 The primary objectives of PixelStudio were:
 
@@ -24,7 +24,7 @@ The primary objectives of PixelStudio were:
 
 ---
 
-## 🧱 Project Architecture
+## Project Architecture
 
 ```
 PixelStudio/
@@ -45,7 +45,7 @@ PixelStudio/
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 * **Frontend/UI:** ComfyUI (Node-based diffusion interface)
 * **Backend:** Python
@@ -56,7 +56,7 @@ PixelStudio/
 
 ---
 
-## 🧪 Execution Process
+## Execution Process
 
 ### Step 1: Environment Setup
 
@@ -139,7 +139,7 @@ Solution:
 
 ---
 
-## ⚠️ Major Problems Faced
+## Major Problems Faced
 
 ### 1. Slow Package Installation
 
@@ -203,7 +203,7 @@ Solution:
 
 ---
 
-## 🧠 Key Learnings
+## Key Learnings
 
 * ML environments are **fragile and version-sensitive**
 
@@ -220,7 +220,7 @@ Solution:
 
 ---
 
-## 🚀 How to Run PixelStudio
+## How to Run PixelStudio
 
 ```bash
 conda activate pixelstudio
@@ -236,7 +236,7 @@ http://127.0.0.1:8188
 
 ---
 
-## 🎨 First Image Generation
+## First Image Generation
 
 Recommended settings:
 
@@ -253,7 +253,7 @@ ultra realistic portrait, cinematic lighting, 85mm lens, detailed skin texture
 
 ---
 
-## 🔮 Future Scope
+## Future Scope
 
 * Integrate FastAPI backend (like Local LLM Server)
 * Add LoRA support for style customization
@@ -263,7 +263,7 @@ ultra realistic portrait, cinematic lighting, 85mm lens, detailed skin texture
 
 ---
 
-## 🏁 Conclusion
+## Conclusion
 
 PixelStudio is not just an image generator — it is a **fully functional local AI pipeline** that demonstrates real-world challenges in ML system setup, debugging, and deployment.
 
@@ -274,13 +274,13 @@ This project bridges the gap between:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Aditya Guha
 AI & ML Enthusiast
 
 ---
 
-## ⭐ Final Note
+## Final Note
 
 > "If you can set up a diffusion system locally and debug it — you’re no longer a beginner in AI systems."
