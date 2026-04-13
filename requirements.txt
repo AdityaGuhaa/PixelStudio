@@ -18,9 +18,6 @@ safetensors
 opencv-python
 scikit-image
 
-# Performance (optional but recommended)
-xformers
-
 # UI / backend support
 fastapi
 uvicorn
