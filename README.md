@@ -17,10 +17,11 @@ This project was built as a hands-on exploration into:
 
 ## Result
 
-<img width="768" height="768" alt="ComfyUI_00001_" src="https://github.com/user-attachments/assets/9674515c-a7c6-42e1-b80a-14f37fc70b41" />
+<img width="360" height="360" alt="ComfyUI_00001_" src="https://github.com/user-attachments/assets/9674515c-a7c6-42e1-b80a-14f37fc70b41" />
 
 ## Background Activity
 <img width="1918" height="1078" alt="backend" src="https://github.com/user-attachments/assets/ae1a6e05-1a2b-4880-b116-66b3c1cf9875" />
+<img width="1918" height="1042" alt="terminal" src="https://github.com/user-attachments/assets/f1149a1e-ca1e-4131-a7e0-75e61ee22791" />
 
 ## Objective
 
